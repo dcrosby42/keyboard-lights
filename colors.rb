@@ -56,6 +56,7 @@ class Colors
   # Known colors
   #
 
+  White = new("FFFFFF")
   Red = new("FF0000")
   Orange = new("FF5500")
   Yellow = new("FFFF00")
