@@ -1,0 +1,2 @@
+$: << "."
+require "keyboard_lights"
