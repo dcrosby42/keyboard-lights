@@ -1,6 +1,7 @@
 module KeyboardLights
   extend self
 
+  # (secrets revealed by https://wiki.archlinux.org/index.php/System76_Darter_Pro_6)
   DeviceDir = "/sys/class/leds/system76::kbd_backlight"
 
   def color_file
